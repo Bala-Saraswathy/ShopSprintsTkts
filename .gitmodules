@@ -1,0 +1,3 @@
+[submodule "Desktop/ShopSprintTkts/ticketing/common"]
+	path = Desktop/ShopSprintTkts/ticketing/common
+	url = https://github.com/Bala-Saraswathy/ShopSprintsTkts.git
